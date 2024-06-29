@@ -21,6 +21,7 @@
 #include "cmsis_os.h"
 #include "usb_host.h"
 #include "stdio.h"
+#include "stm32f4xx.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
